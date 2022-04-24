@@ -132,3 +132,5 @@ dmypy.json
 .idea/
 Scripts/
 pyvenv.cfg
+
+test.py
